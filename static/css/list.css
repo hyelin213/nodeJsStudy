@@ -1,0 +1,5 @@
+* { padding: 0; margin: 0; }
+
+table tr:not(:first-child):hover {
+    background-color: antiquewhite;
+}
